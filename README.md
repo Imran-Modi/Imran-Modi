@@ -68,18 +68,19 @@
 
 ### 📌 Featured Projects
 
-- 📈 **Excel FinTrack Business Analytics Dashboard** — Interactive dashboard for sales, revenue, profit, discounts, and seasonal trend analysis.
-- 🗃️ **SQL Data Analysis Projects** — Data extraction, joins, aggregations, and business insights using SQL.
-- 📊 **Power BI Dashboards** — Interactive reports, KPI tracking, and business performance visualization.
-- 📉 **Tableau Visualizations** — Data storytelling through interactive charts and dashboards.
-- 🐍 **Python Data Analysis** — Data cleaning, exploratory data analysis, and visualization.
+- 📗 **Excel – FinTrack Business Analytics Dashboard** — Interactive dashboard analyzing sales, revenue, profit, discounts, product performance, and seasonal trends.
 
+- 🗄️ **SQL – Bengaluru Ola Ride Booking Data Analytics** — Analyzed ride-booking data to identify booking trends, ride patterns, cancellations, and customer insights.
+
+- 📊 **Power BI – DMart Sales Operational Intelligence Dashboard** — Interactive dashboard tracking sales performance, operational metrics, product insights, and business KPIs.
+
+- 📈 **Tableau – EcomLens Superstore Sales Dashboard** — Visualized sales, profit, product categories, regional performance, and business trends.
 ---
 
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Imran-Modi" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank" rel="noreferrer">
