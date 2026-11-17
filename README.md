@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm a Data Analytics Enthusiast</h1>
+<h1 align="center">Hi 👋, I'm a Data Science & Analytics Enthusiast</h1>
 
 <h3 align="center">Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python | Machine Learning</h3>
 
